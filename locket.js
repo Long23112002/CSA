@@ -50,16 +50,15 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "KHUNG MẶC ĐỊNH,CF 45S",
+            title: "KHUNG MẶC ĐỊNH,CF 45S Mod by Long",
             feature_set: [
                 {
-                    title: "🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍",
-                    body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
-                
+                    title: "Locket Gold",
+                    body: "Đã kích hoạt tính năng Gold & Video 45s",
+                    imageURL: ""
                 }
             ],
-            primary_button_title: "done",
+            primary_button_title: "Xong",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
@@ -67,9 +66,7 @@ if (ua.includes("Locket")) {
         }),
         android_subscribe_gold_button_enabled: "false",
         profile_badge_visible: "true",
-        lunar_new_year_app_icon_enabled: "true",
-        settings_instagram_url: "he he",
-        settings_tiktok_url: "hi hi"
+        lunar_new_year_app_icon_enabled: "true"
     });
 
     // ============================================================
